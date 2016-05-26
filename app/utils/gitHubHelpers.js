@@ -20,7 +20,7 @@ function getTotalStars (repos) {
   }, 0)
 }
 
-// get repos, getTotalStars then return object with that data
+// get repos, getTotalStars then return object with that data, returning an object
 function getPlayerData (player) {
   return getRepos(player.login)
     .then(getTotalStars)
