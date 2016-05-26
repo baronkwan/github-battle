@@ -35,8 +35,8 @@ function getPlayerData (player) {
 // return an array, after doing some fancy algorithms to determine a winner
 function calculateScores (players) {
   return [
-    players[0].followers * 3 + players[0].totalStars,
-    players[1].followers * 3 + players[1].totalStars
+    players[0].followers * 5 + players[0].totalStars,
+    players[1].followers * 5 + players[1].totalStars
   ]
 }
 
