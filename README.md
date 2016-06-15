@@ -1,4 +1,4 @@
-# Github Battle
+# Github Battle [ReactJS]
 
 ###PROJECT SUMMARY
 
