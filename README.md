@@ -1,20 +1,18 @@
 # Github Battle
 
 ###PROJECT SUMMARY
-```
+
 * Coded and designed using `ReactJS`
 * Runs on `Node.JS`, `WebPack`
 * Utilizes `Axios.js` for API connection to GitHub
 * Renders React JSX files using `Babel.js`
-```
 
 ###Usage###
-```
-Clone this repo. Change directory to `./github-battle`
-Add your GitHub API credentials to the helper file
-NPM install
-NPM run start
-```
+
+1. Clone this repo. Change directory to `./github-battle`
+2. Add your GitHub API credentials to the helper file
+3. `NPM install`
+4. `NPM run start`
 
 ###Technologies & Frameworks Used###
 
