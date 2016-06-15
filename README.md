@@ -28,9 +28,13 @@
 ###Screenshots###
 
 <img src="http://baronkwan.github.io/assets/images/projects/screenshots/github_battle-1.png" />
+
 <img src="http://baronkwan.github.io/assets/images/projects/screenshots/github_battle-2.png" />
+
 <img src="http://baronkwan.github.io/assets/images/projects/screenshots/github_battle-3.png" />
+
 <img src="http://baronkwan.github.io/assets/images/projects/screenshots/github_battle-4.png" />
+
 <img src="http://baronkwan.github.io/assets/images/projects/screenshots/github_battle-5.png" />
 
 Happy coding!
