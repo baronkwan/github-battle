@@ -7,8 +7,8 @@
 
 ###Usage:###
 ```
-Clone this repo. Change directory to */github-battle*.
-Add your GitHub API credentials to the helper file.
+Clone this repo. Change directory to `./github-battle`
+Add your GitHub API credentials to the helper file
 NPM install
 NPM run start
 ```
