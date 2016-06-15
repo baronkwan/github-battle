@@ -1,7 +1,4 @@
-#FULL-STACK ENGINEER | GITHUB BATTLE | 2016#
-
-###A ReactJS project, where two GitHub user profiles are compared using GitHub's API.###
-
+# Github Battle
 
 * Coded and designed using `ReactJS`
 * Runs on `Node.JS`, `WebPack`
@@ -10,7 +7,8 @@
 
 ###Usage:###
 ```
-Add your GitHub API credentials to helper file.
+Clone this repo. Change directory to */github-battle*.
+Add your GitHub API credentials to the helper file.
 NPM install
 NPM run start
 ```
@@ -28,4 +26,8 @@ NPM run start
 
 ###Screenshots:###
 
-<img src="http://timurcatakli.github.io/assets/images/projects/screenshots/github_battle01.png" />
+<img src="http://baronkwan.github.io/assets/images/projects/screenshots/github_battle-1.png" />
+<img src="http://baronkwan.github.io/assets/images/projects/screenshots/github_battle-2.png" />
+<img src="http://baronkwan.github.io/assets/images/projects/screenshots/github_battle-3.png" />
+<img src="http://baronkwan.github.io/assets/images/projects/screenshots/github_battle-4.png" />
+
