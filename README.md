@@ -1,5 +1,8 @@
 # Github Battle [ReactJS]
 
+### PROJECT LINK
+[HERE](http://baronkwan.github.io/assets/projects/github_battle)
+
 ###PROJECT SUMMARY
 
 * Coded and designed using `ReactJS`
